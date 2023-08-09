@@ -1,5 +1,9 @@
+Favorite foods:
 pasta
 pizza
-hamburguerpasta
-pizza
 hamburguer
+
+FAvorite movies:
+Rocky
+Avatar
+Insidious 
